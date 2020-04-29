@@ -2,6 +2,7 @@
 node_modules
 hello-vue-env
 /dist
+/coverage
 
 # local env files
 .env.local
